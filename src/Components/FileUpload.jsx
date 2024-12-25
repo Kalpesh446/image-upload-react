@@ -167,6 +167,7 @@ const FileUpload = () => {
 
 
   return (
+    // file upload or image upload 
     <div className="fileupload-view">
       <div className="row justify-content-center m-0">
         <div className="col-md-6">
